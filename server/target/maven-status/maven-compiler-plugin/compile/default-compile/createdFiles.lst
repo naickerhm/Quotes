@@ -1,0 +1,7 @@
+TestDatabase.class
+QuoteDB.class
+Greeting/GreetingApi.class
+Greeting/WebbyHelloWorld.class
+QuoteApiHandler.class
+Quote.class
+Greeting/TestableWebbyHelloWorld.class
